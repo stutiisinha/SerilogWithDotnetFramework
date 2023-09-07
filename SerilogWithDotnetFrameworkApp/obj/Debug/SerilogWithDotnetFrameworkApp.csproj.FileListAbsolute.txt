@@ -1,0 +1,1 @@
+C:\Users\X6SSINH2\source\repos\SerilogWithDotnetFramework\SerilogWithDotnetFrameworkApp\obj\Debug\SerilogWithDotnetFrameworkApp.csproj.CoreCompileInputs.cache
